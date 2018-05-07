@@ -1,0 +1,10 @@
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\7-4Tutorial.csprojResolveAssemblyReference.cache
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\_7_4Tutorial.Form1.resources
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\_7_4Tutorial.Properties.Resources.resources
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\7-4Tutorial.csproj.GenerateResource.Cache
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\7-4Tutorial.csproj.CoreCompileInputs.cache
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\bin\Debug\7-4Tutorial.exe.config
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\bin\Debug\7-4Tutorial.exe
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\bin\Debug\7-4Tutorial.pdb
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\7-4Tutorial.exe
+D:\C#\CH 7 Questions\7-4Tutorial\7-4Tutorial\obj\Debug\7-4Tutorial.pdb
